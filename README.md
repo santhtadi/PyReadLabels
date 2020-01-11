@@ -1,8 +1,10 @@
 # PyReadLabels
 
-A Python Package to read labels from an image
+A Python Package to read labels from an image. Avaialable in PyPI [PyReadLabels](https://pypi.org/project/PyReadLabels/)
 
 ## USAGE
+
+Install from PyPI at [PyReadLabels](https://pypi.org/project/PyReadLabels/)
 
 ```
 from PyReadLabels import pyreadlabels
